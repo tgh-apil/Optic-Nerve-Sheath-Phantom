@@ -1,5 +1,5 @@
 # Optic-Nerve-Sheath-Phantom
-A transorbital ultrasonographic optic nerve sheath training phantom based on a model designed by Hajat et al., 2020.
+A transorbital ultrasonographic optic nerve sheath training phantom based on a model designed by Dr. Zakir Hajat, Dr. Michael Dinsmore, and Dr. Lashmi Venkatraghavan.
 
 This model is based on a pre-existing transorbital ultrasonographic optic nerve sheath phantom—as described in [Hajat et al.’s 2020 paper](https://doi.org/10.1097/ana.0000000000000592)—and was developed alongside Dr. Michael Dinsmore, one of the authors of the paper. Its purpose is to improve the realism of the training phantom by providing a human face-shaped case in which to house the inner components of the phantom (i.e. the eye and optic nerve sheath), as well as to increase its longevity by replacing the gelatine and psyllium fiber with ballistics gel and graphite powder. Both versions of the model were created to provide training in the measurement of optic nerve sheath diameter through noninvasive ultrasonography. 
 
