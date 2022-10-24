@@ -9,20 +9,21 @@ See documentation below.
 
 ## Parts, Materials & Equipment
 ### Printed Parts
+The files for these parts can be found in the CAD Files folder of this repository.
 
 Left Side
 * left bottom.stl/3mf * — portion of case that houses the eye and optic nerve sheath
-* left lid.stl/3mf — lid for back of case
-* left top.stl/3mf — top/forehead component of case
-* left mold 1.stl/3mf — part 1 of mold
-* left mold 2.stl/3mf — part 2 of mold
+* left lid.stl — lid for back of case
+* left top.stl — top/forehead component of case
+* left mold 1.stl — part 1 of mold
+* left mold 2.stl — part 2 of mold
 
 Right Side
 * right bottom.stl/3mf * — portion of case that houses the eye and optic nerve sheath
-* right lid.stl/3mf — lid for back of case
-* right top.stl/3mf — top/forehead component of case
-* right mold 1.stl/3mf — part 1 of mold
-* right mold 2.stl/3mf — part 2 of mold
+* right lid.stl — lid for back of case
+* right top.stl — top/forehead component of case
+* right mold 1.stl — part 1 of mold
+* right mold 2.stl — part 2 of mold
 
 \* Use high temperature PLA or another heat resistant filament for components that will be in contact with molten ballistics gel (left bottom.stl and right bottom.stl). Any filament can be used for the rest of the components (PLA was used in this case).
 
@@ -48,8 +49,10 @@ Right Side
 2. Spray inside of mold with mold release agent and cast with relatively rigid silicone rubber. Smooth-On's Dragon Skin 30 was used here.
 3. Remove from mold when cured. There may be a small air bubble beside the eye portion of the mold, but this can be filled by applying a small additional amount of silicone into the cavity and placing it back into the mold to cure a second time.
 
+> <img src="https://user-images.githubusercontent.com/84343976/197574596-6c672661-83ca-46ce-a8bf-ec4a8ce5119b.png" width="420"><img src="https://user-images.githubusercontent.com/84343976/197574604-9c1e3dca-c90b-4a78-aa17-e25aff4d80e0.png" width="410">
+
 ### Case
-1. 3D print bottom, top**, and lid*** components. Only the bottom component requires high temperature PLA filament. <b>Note that there are issues with the bottom component file; it is only printable in one orientation, which is already saved in the .3mf file.</b>
+1. 3D print bottom, top**, and lid*** components. Only the bottom component requires high temperature PLA filament. <b>Note that there are issues with the bottom component file; it is only printable in one orientation, which is already saved in the .3mf file. Fixing it with the Netfabb service is not recommended.</b>
 
 \** The top and bottom components will be glued together eventually, however since the mold fits around the bottom component, the gluing step must occur after the ballistics gel casting is complete.
 
