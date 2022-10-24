@@ -52,7 +52,7 @@ Right Side
 > <img src="https://user-images.githubusercontent.com/84343976/197574596-6c672661-83ca-46ce-a8bf-ec4a8ce5119b.png" width="420"><img src="https://user-images.githubusercontent.com/84343976/197574604-9c1e3dca-c90b-4a78-aa17-e25aff4d80e0.png" width="410">
 
 ### Case
-1. 3D print bottom, top**, and lid*** components. Only the bottom component requires high temperature PLA filament. <b>Note that there are issues with the bottom component file; it is only printable in one orientation, which is already saved in the .3mf file. Fixing it with the Netfabb service is not recommended.</b>
+1. 3D print bottom, top**, and lid*** components. Only the bottom component requires high temperature PLA filament. <b>Note that there are issues with the bottom component file; it is only printable in one orientation, which is already saved in the .3mf file. Fixing it with PrusaSlicer's Netfabb service is not recommended.</b>
 
 \** The top and bottom components will be glued together eventually, however since the mold fits around the bottom component, the gluing step must occur after the ballistics gel casting is complete.
 
