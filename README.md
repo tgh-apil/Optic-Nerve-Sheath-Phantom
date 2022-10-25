@@ -9,7 +9,7 @@ See documentation and assembly instructions below.
 
 ## Parts, Materials & Equipment
 ### Printed Parts
-The files for these parts can be found in the CAD Files folder of this repository.
+The files for these parts can be found in the [CAD Files](https://github.com/tgh-apil/Optic-Nerve-Sheath-Phantom/tree/main/CAD%20Files) folder of this repository.
 
 Left Side
 * left bottom.stl/3mf * — portion of case that houses the eye and optic nerve sheath
