@@ -27,6 +27,8 @@ Right Side
 
 \* Use high temperature PLA or another heat resistant filament for components that will be in contact with molten ballistics gel (left bottom.stl and right bottom.stl). Any filament can be used for the rest of the components (PLA was used in this case).
 
+Note: The headform model was modified from NIOSH National Personal Protective Technology Laboratory (NPPTL)’s ISO Digital Headforms (specifically the medium size): https://www.cdc.gov/niosh/npptl/topics/respirators/headforms/default.html
+
 ### Materials
 * High temperature PLA
 * Optional other filament
