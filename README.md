@@ -97,16 +97,16 @@ The files for these parts can be found in the [*/stl files/*](stl%20files) direc
 <img src="images/BG casting_components.png" width="400"> <img src="images/BG casting_setup.JPG" width="400"> 
 
 1. Melt at least 125 g 10% gel and 125 g Humimic #5 gel (a total of 250 g) in a slow cooker at 105C - 115C (approx. 225F - 240F).
-Print the case components (*/stl files/case/*) as well as the tilting ramp (*/stl files/other/*).
-2. Place the case into the corresponding intermediate silicone mold so that the outside of the case is flush with the silicone. Clamp into position. 
+2. Print the case components (*/stl files/case/*) as well as the tilting ramp (*/stl files/other/*).
+3. Place the case into the corresponding intermediate silicone mold so that the outside of the case is flush with the silicone. Clamp into position. 
    - Note: in order to prevent deformation of the case under high temperatures, it may be helpful to place a thin plastic or wood plate between the case and the clamp, covering the thinnest wall of the case.
-3. Place the case and mold onto the tilting ramp so that the flat side of the case is slightly elevated. This will help ensure the eye and nerve sheath are properly oriented.
-4. Pour ballistics gel into the case until the silicone in the window is just covered and allow to cool.
-5. Place the eye-nerve sheath into something that will allow the eye to hold its shape (for example, a ping pong ball hemisphere with a hole large enough to accommodate the sheath). Pour ballistics gel into the eye until full and allow to cool. Once cool remove the eye-nerve sheath and trim any excess silicone around the top so that the gel is slightly concave. This will help prevent air bubbles when placing the eye into the case.
-6. Use a heat gun to gently melt the surface of the gel in both the case and the eye, then place the eye into the case. See the figure below for approximate placement. The melted surfaces allow for a few seconds of mobility during which it is possible to correct the position of the eye and to compress out any air bubbles. Position the nerve sheath so that it is straight and vertical.
+4. Place the case and mold onto the tilting ramp so that the flat side of the case is slightly elevated. This will help ensure the eye and nerve sheath are properly oriented.
+5. Pour ballistics gel into the case until the silicone in the window is just covered and allow to cool.
+6. Place the eye-nerve sheath into something that will allow the eye to hold its shape (for example, a ping pong ball hemisphere with a hole large enough to accommodate the sheath). Pour ballistics gel into the eye until full and allow to cool. Once cool remove the eye-nerve sheath and trim any excess silicone around the top so that the gel is slightly concave. This will help prevent air bubbles when placing the eye into the case.
+7. Use a heat gun to gently melt the surface of the gel in both the case and the eye, then place the eye into the case. See the figure below for approximate placement. The melted surfaces allow for a few seconds of mobility during which it is possible to correct the position of the eye and to compress out any air bubbles. Position the nerve sheath so that it is straight and vertical.
    - <img src="images/BG casting_eye positioning.png" width="400">
-   - Note: the presence of air bubbles does not necessarily render the phantom unusable so long as they are not in the centre of the eye where they will block the nerve sheath during ultrasound. If this occurs, remove the eye-nerve sheath and its gel, and repeat steps 5-7. Once cooled, pour enough ballistics gel into the case to cover the nerve sheath to a depth of roughly 5 centimetres. Allow to cool again.
-8. Once cooled, unclamp and remove the case from the mold. Trim the nerve sheath so that it does not stick out beyond the case. Use a heat gun to gently heat the surface of the ballistics gel in the case to smooth out the texture imparted to it by the silicone mold.
+   - Note: the presence of air bubbles does not necessarily render the phantom unusable so long as they are not in the centre of the eye where they will block the nerve sheath during ultrasound. If this occurs, remove the eye-nerve sheath and its gel, and repeat steps 6 and 8. Once cooled, pour enough ballistics gel into the case to cover the nerve sheath to a depth of roughly 5 centimetres. Allow to cool again.
+9. Once cooled, unclamp and remove the case from the mold. Trim the nerve sheath so that it does not stick out beyond the case. Use a heat gun to gently heat the surface of the ballistics gel in the case to smooth out the texture imparted to it by the silicone mold.
 
 ## Final Assembly
 1. Use a ⅛-inch drill bit to tap the pre-printed magnet holes in the case.
